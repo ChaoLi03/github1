@@ -1,1 +1,2 @@
-learning git
+learning git.
+the feel is good!
