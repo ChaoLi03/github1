@@ -1,3 +1,3 @@
-github1 is the codes of C++ in study of myself.
+Github1 is the codes of C++ in study of myself.
 
-there are many exercises.
+There are many exercises.
